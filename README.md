@@ -1,5 +1,5 @@
 ### Hi there 👋
-##### My name is Azeem and currently, I am master's student in Medical Robotics at Friedrich Alexander University, Erlange-Nuremberg, Germany.
+My name is Azeem and currently, I am master's student in Medical Robotics at Friedrich Alexander University, Erlange-Nuremberg, Germany.
 <!--
 **rehmanazeem/rehmanazeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
