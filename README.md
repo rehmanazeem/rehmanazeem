@@ -1,5 +1,11 @@
 ### Hi there 👋
-My name is Azeem and currently, I am master's student in Medical Robotics at Friedrich Alexander University, Erlange-Nuremberg, Germany.
+My name is Azeem and currently, I am a master's student in Medical Robotics at FAU Erlangen. I love playing around and experimenting with new ideas to bring them to life. Programming is my passion and I enjoy it even as liesure activity.
+
+- 🔭 I’m currently working on a computer vision based app.
+- 🌱 I’m currently learning genrative AI and LLM's applications.
+- 💬 Ask me about ML, DL algorithms implementation.
+
+
 <!--
 **rehmanazeem/rehmanazeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
