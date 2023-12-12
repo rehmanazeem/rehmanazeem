@@ -1,11 +1,11 @@
 ### Hi there 👋
-
+##### My name is Azeem and currently, I am master's student in Medical Robotics at Friedrich Alexander University, Erlange-Nuremberg, Germany.
 <!--
 **rehmanazeem/rehmanazeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
