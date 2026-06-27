@@ -1,22 +1,29 @@
-### Hi there 👋
-My name is Azeem and currently, I am a master's student in Medical Robotics at FAU Erlangen. I love playing around and experimenting with new ideas to bring them to life. Programming is my passion and I enjoy it even as liesure activity.
+# Hi, I'm Azeem 👋
 
-- 🔭 I’m currently working on a computer vision based app.
-- 🌱 I’m currently learning genrative AI and LLM's applications.
-- 💬 Ask me about ML, DL algorithms implementation.
+**AI/ML & Software Engineer — Agentic AI, RAG, Python | Robotics & Automation Software**
 
+I build production AI features and the software that connects them to real systems. M.Sc. in Medical Engineering (Medical Robotics) from FAU Erlangen-Nürnberg, with 4+ years of combined software, AI and data experience. Based in Germany.
 
-<!--
-**rehmanazeem/rehmanazeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I work on: LLM/agentic systems (RAG, structured outputs, AI agents), ML pipelines, and Python platform & robotics-integration software.
+- 🧰 I drove AI adoption on my team by authoring reusable Claude skills and context-engineering workflows.
+- 🌱 Currently going deeper on: agentic frameworks, MLOps, and cloud (Azure / AWS).
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/azeem-ur-rehman-47525a170) · rehmanazeem915@gmail.com
 
-Here are some ideas to get you started:
+## 🛠️ Tech
+**Languages:** Python (expert), C++, SQL
+**AI / GenAI:** AI agents (Claude Agents SDK), RAG, LangChain, Qdrant, AWS Bedrock, Azure OpenAI, local LLMs (Llama)
+**ML:** PyTorch, scikit-learn, OpenCV, pandas/NumPy
+**Backend / Tooling:** FastAPI, PySide6/Qt, Docker, MLflow, Optuna, CI/CD, Git
+**Hardware/Robotics:** device integration over Modbus, CAN, TCP/IP; multi-threaded control software
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- **Agentic Medical Bot** — LangChain + AWS Bedrock pipeline for document intelligence on diagnostic reports.
+- **Virtual Research Assistant (RAG)** — QnA retrieval on a self-hosted Llama with LangChain and a Qdrant vector DB.
+- *(More being published — pinned repos updated regularly.)*
+
+## 📜 Certifications
+- Develop Generative AI Solutions with Azure OpenAI (Microsoft, 2024)
+- Generative AI with Large Language Models (2023)
+
+<!-- Optional: add later once repos are public -->
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true) -->
