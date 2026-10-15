@@ -12,22 +12,15 @@ I start from the whole system: what talks to what, where state lives, what fails
 
 ## 🧭 Systems I've built
 
-### A home that runs on its own protocols
-Five layers, one system, each repo owning a different transport. No cloud dependency: the Raspberry Pi is the brain.
+### A smart home split by protocol
+Four repos, one system, each owning a different transport layer: MQTT orchestration with OTA on a Raspberry Pi, TCP/MQTT control with a web UI, a BLE bridge for an LED strip, and the ESP8266 firmware they all talk to.
 
 ```mermaid
 flowchart LR
-    subgraph Edge
-      FW[arduino-firmware<br/>ESP8266 relays]
-    end
-    subgraph Pi[Raspberry Pi]
-      OS[smart-home-os<br/>MQTT orchestrator · OTA]
-    end
-    SRV[smart-home-server<br/>REST + web UI]
-    BLE[smart-home-ble-backend<br/>MQTT ⇄ BLE LED strip]
-    FW <-->|MQTT| OS
-    SRV <-->|TCP · MQTT| FW
-    OS <-->|MQTT| BLE
+    OS["smart-home-os<br/>MQTT orchestrator + OTA<br/>(Raspberry Pi)"] --- FW
+    SRV["smart-home-server<br/>REST API + web UI<br/>(TCP · MQTT)"] --- FW
+    BLE["smart-home-ble-backend<br/>MQTT to BLE bridge"] --- LED[(BLE LED strip)]
+    FW["arduino-firmware<br/>ESP8266 relays"]
 ```
 [**smart-home-os**](https://github.com/rehmanazeem/smart-home-os) · [**smart-home-server**](https://github.com/rehmanazeem/smart-home-server) · [**smart-home-ble-backend**](https://github.com/rehmanazeem/smart-home-ble-backend) · [**arduino-firmware**](https://github.com/rehmanazeem/arduino-firmware)
 
