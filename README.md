@@ -17,7 +17,7 @@ M.Sc. Medical Engineering (Medical Robotics), FAU Erlangen-Nürnberg. 4+ years a
 - [**llmops-langchain**](https://github.com/rehmanazeem/llmops-langchain): FastAPI + LangChain + Ollama service with LangSmith tracing, Qdrant-backed RAG and multimodal notebooks.
 - [**research-paper-assistant**](https://github.com/rehmanazeem/research-paper-assistant): local-LLM tool that screens and summarizes Scopus paper exports by relevance, with a LangSmith eval harness.
 - [**cover-letter-assistant**](https://github.com/rehmanazeem/cover-letter-assistant): CLI that drafts a tailored cover letter from a job description and CV, fully local on Ollama.
-- [**il-pusht-k8s**](https://github.com/rehmanazeem/il-pusht-k8s): imitation-learning (PushT) training setup for Kubernetes.
+- [**il-pusht-k8s**](https://github.com/rehmanazeem/il-pusht-k8s): *work in progress:* imitation learning on PushT (LeRobot, Apple Silicon) with ROS2 bridge and Kubernetes deployment planned.
 
 **Smart-home / IoT stack** (five repos, one system, each owning a different protocol layer)
 - [**smart-home-os**](https://github.com/rehmanazeem/smart-home-os): FastAPI MQTT orchestrator with OTA updates for ESP devices, built for a Raspberry Pi.
