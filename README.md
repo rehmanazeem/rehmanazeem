@@ -31,6 +31,9 @@ flowchart LR
 | [**research-paper-assistant**](https://github.com/rehmanazeem/research-paper-assistant) | Screens and summarises Scopus exports with a local Llama, scored by an evaluation harness. |
 | [**cover-letter-assistant**](https://github.com/rehmanazeem/cover-letter-assistant) | Job description + CV in, tailored letter out, fully offline on Ollama. |
 
+### Computer vision
+[**rehabilitation-app**](https://github.com/rehmanazeem/rehabilitation-app): real-time hand-tracking biofeedback for finger-flexion therapy (Flask, MediaPipe, OpenCV). The angle maths is a pure, unit-tested module, separate from the camera and web layers.
+
 ### In progress
 [**il-pusht-k8s**](https://github.com/rehmanazeem/il-pusht-k8s): imitation learning on PushT (LeRobot, Apple Silicon), heading toward a ROS2 bridge and Kubernetes deployment with CI and monitoring. Learning-scale by design, and labelled that way.
 
